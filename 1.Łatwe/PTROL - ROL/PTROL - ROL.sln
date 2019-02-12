@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTROL - ROL", "PTROL - ROL\PTROL - ROL.csproj", "{8BA546A6-C702-4D78-A10C-CE7E161B3985}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BA546A6-C702-4D78-A10C-CE7E161B3985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BA546A6-C702-4D78-A10C-CE7E161B3985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BA546A6-C702-4D78-A10C-CE7E161B3985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BA546A6-C702-4D78-A10C-CE7E161B3985}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A59E3C8A-1CC3-4FA8-8AD1-66CCC97AA24D}
+	EndGlobalSection
+EndGlobal

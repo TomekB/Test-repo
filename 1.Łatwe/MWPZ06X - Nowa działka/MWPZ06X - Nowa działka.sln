@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MWPZ06X - Nowa działka", "MWPZ06X - Nowa działka\MWPZ06X - Nowa działka.csproj", "{C7139E2E-9025-432F-AE7F-02F7A93ABAA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7139E2E-9025-432F-AE7F-02F7A93ABAA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7139E2E-9025-432F-AE7F-02F7A93ABAA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7139E2E-9025-432F-AE7F-02F7A93ABAA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7139E2E-9025-432F-AE7F-02F7A93ABAA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCE3D42F-A377-452A-9E7D-F6B61E27DA61}
+	EndGlobalSection
+EndGlobal
